@@ -1,4 +1,4 @@
-YappySDK
+Wold Coordinate System .NET Port
 ========
 
 As part of the NASA Asteroid Data Hunter TopCoder Challenge, we have had to deep dive into and learn a lot about astronomy.
